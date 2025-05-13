@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm Anshuman Garg, a Computer Science student and an enthu
 ## 🛠 Technologies & Skills
 
 - **Languages**: C, C++, Python  
-- **DSA Practice**: LeetCode, college assignments, competitive problems  
+- **DSA Practice**: LeetCode, competitive problems etc.. 
 - **Frontend**: HTML, CSS, JavaScript (basic to intermediate)  
 - **Currently Exploring**: Backend, databases, and frameworks  
 - **Tools**: Git, GitHub, VS Code, Netlify  
