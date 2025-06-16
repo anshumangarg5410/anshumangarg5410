@@ -15,14 +15,14 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 - 👨‍💻 Participated in multiple **Hackathons** and open-source events
 - 🎯 Passionate about building efficient and scalable software
 
----
+
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-garg-154082212) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshumangarg5410)
 
-
----
 
 ## 🛠 Tech Stack
 
