@@ -2,9 +2,8 @@
 
 Welcome to my GitHub!  
 I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
-I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**.
+I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
----
 
 ## 👨‍💻 About Me
 
@@ -16,7 +15,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🧑‍🏫 Active participant in **Hackathons** & open source
 - 🎯 Passionate about writing clean and scalable code
 
----
 
 ## 🌐 Connect With Me
 
@@ -25,7 +23,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshumangarg5410)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshumangarg5410)
 
----
 
 ## 🛠 Tech Stack
 
@@ -42,7 +39,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
 
 ## 🎯 Current Goals
 
@@ -52,7 +48,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🌟 Contribute actively to **open-source**
 - ⚔️ Participate in more **Hackathons**
 
----
 
 ## 📊 GitHub Stats
 
@@ -66,6 +61,5 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 </div>
 
----
 
 > Let’s grow together – one commit at a time 🚀
