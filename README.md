@@ -62,4 +62,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 </div>
 
 
+---
+
 > Let’s grow together – one commit at a time 🚀
