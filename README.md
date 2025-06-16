@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79400&center=true&vCenter=true&width=435&lines=Hey!+I'm+Anshuman+Garg;C%2B%2B+%7C+DSA+%7C+Web;Full+Stack+Learner+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=280&lines=Hey!+I'm+Anshuman+Garg;C%2B%2B+%7C+DSA+%7C+Web;Full+Stack+Learner+🚀)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm **Anshuman Garg**, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**.  
 I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**
