@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm **Anshuman Garg**, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**.  
 I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**
 
----
 
 ## 🧑‍💻 About Me
 
@@ -39,7 +38,6 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
 
 ## 🎯 Current Goals
 
@@ -49,18 +47,14 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 - 💬 Contributing more to **open-source**
 - 🏁 Gaining experience via **Hackathons**
 
----
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 > Let’s grow together – one commit at a time 🚀
 
----
-
-<!-- README crafted with ❤️ by Anshuman Garg -->
