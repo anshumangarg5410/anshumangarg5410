@@ -1,28 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=280&lines=Hey!+I'm+Anshuman+Garg;C%2B%2B+%7C+DSA+%7C+Web;Full+Stack+Learner+🚀)](https://git.io/typing-svg)
 
-Welcome to my GitHub! I'm **Anshuman Garg**, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**.  
-I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**
+Welcome to my GitHub!  
+I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
+I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**.
 
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌟 Core language: **C++** (currently focused on DSA using it)
-- 💡 Regularly practicing **Data Structures & Algorithms** on **LeetCode**
-- ⚛️ Creating clean frontends using **React JS** and **Tailwind CSS**
-- ⚙️ Exploring backend development and full stack tools
+- 💻 Core language: **C++** (focused on mastering DSA)
+- 📚 Consistent with **LeetCode** for problem-solving
+- ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**
+- 🌐 Exploring backend development and full stack tools
 - 🚀 Contributor at **GSSoC 2024**
-- 👨‍💻 Participated in multiple **Hackathons** and open-source events
-- 🎯 Passionate about building efficient and scalable software
+- 🧑‍🏫 Active participant in **Hackathons** & open source
+- 🎯 Passionate about writing clean and scalable code
 
+---
 
-
-## 🌐 Socials:
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-garg-154082212) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshumangarg5410)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshumangarg5410)
 
+---
 
 ## 🛠 Tech Stack
 
@@ -39,26 +42,26 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+---
 
 ## 🎯 Current Goals
 
-- 🔍 Mastering **Full Stack Development**
-- 🧠 Strengthening **DSA in C++**
-- 🌱 Learning **Node.js**, **Express**, and **MongoDB**
-- 💬 Contributing more to **open-source**
-- 🏁 Gaining experience via **Hackathons**
+- 🧠 Master **DSA in C++**
+- 💻 Learn **Node.js**, **Express.js**, and **MongoDB**
+- 📈 Build real-world full stack projects
+- 🌟 Contribute actively to **open-source**
+- ⚔️ Participate in more **Hackathons**
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api?username=anshumangarg5410&custom_title=Something+To+Know+About...&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
 
-<!-- Top Languages -->
 <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=radical&layout=compact&hide_border=false&border_radius=10"/>
 
-<!-- Streak Stats -->
 <img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
 
 </div>
@@ -66,4 +69,3 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 ---
 
 > Let’s grow together – one commit at a time 🚀
-
