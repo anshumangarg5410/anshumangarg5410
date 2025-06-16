@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my GitHub! I'm **Anshuman Garg**, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**.  
-I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**.
+I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**
 
 ---
 
