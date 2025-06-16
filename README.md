@@ -51,7 +51,7 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
