@@ -51,13 +51,17 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
+<!-- Row 1: Stats + Languages -->
 <img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api?username=anshumangarg5410&custom_title=Something+To+Know+About...&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
-
 <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=radical&layout=compact&hide_border=false&border_radius=10"/>
 
+<!-- Row 2: Streak + Contribution Graph -->
 <img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumangarg5410&theme=react-dark" width="780px"/>
 
 </div>
 
