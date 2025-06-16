@@ -13,7 +13,6 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 - ⚙️ Exploring backend development and full stack tools
 - 🚀 Contributor at **GSSoC 2024**
 - 👨‍💻 Participated in multiple **Hackathons** and open-source events
-- 🙏 Spiritually rooted – Devotee of **Lord Hanuman** & **Shree Krishna**
 - 🎯 Passionate about building efficient and scalable software
 
 ---
@@ -52,17 +51,17 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=your_github_username&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumangarg5410show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=yanshumangarg5410&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-garg-154082212) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshuman.garg.5410)
 
 > Let’s grow together – one commit at a time 🚀
 
