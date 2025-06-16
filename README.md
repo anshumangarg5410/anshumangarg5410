@@ -1,42 +1,71 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I'm Anshuman Garg, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**. I love exploring the depths of **C++**, solving **Data Structures & Algorithms** problems, and experimenting with **Web Development** tools.
+Welcome to my GitHub! I'm **Anshuman Garg**, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**.  
+I love building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with the latest **web tech**.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🌟 Core language: **C++** (currently focused on DSA using it)
-- 💡 Practicing **Data Structures & Algorithms** consistently on **LeetCode**
-- 🌐 Learning & building with **HTML, CSS, and JavaScript**
+- 💡 Regularly practicing **Data Structures & Algorithms** on **LeetCode**
+- ⚛️ Creating clean frontends using **React JS** and **Tailwind CSS**
 - ⚙️ Exploring backend development and full stack tools
-- 🚀 Contributor in **GSSoC 2024**
-- 👨‍👩‍👧‍👦 Participated in various **Hackathons** and open-source initiatives
-- 🎯 Passionate about creating efficient, scalable software solutions
+- 🚀 Contributor at **GSSoC 2024**
+- 👨‍💻 Participated in multiple **Hackathons** and open-source events
+- 🙏 Spiritually rooted – Devotee of **Lord Hanuman** & **Shree Krishna**
+- 🎯 Passionate about building efficient and scalable software
 
 ---
 
-## 🛠 Technologies & Skills
+## 🛠 Tech Stack
 
-- **Languages**: C, C++, Python  
-- **DSA Practice**: LeetCode, competitive problems etc.. 
-- **Frontend**: HTML, CSS, JavaScript (basic to intermediate)  
-- **Currently Exploring**: Backend, databases, and frameworks  
-- **Tools**: Git, GitHub, VS Code, Netlify  
+### 🚀 Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
-- 🔍 Build a strong grip on **Full Stack Development**
-- 🚀 Continue mastering **DSA in C++**
-- 🌱 Learn backend frameworks like Node.js, Express, MongoDB, etc.
-- 💬 Collaborate on **open-source projects**
-- 🧠 Keep participating in **hackathons** to grow through experience
+- 🔍 Mastering **Full Stack Development**
+- 🧠 Strengthening **DSA in C++**
+- 🌱 Learning **Node.js**, **Express**, and **MongoDB**
+- 💬 Contributing more to **open-source**
+- 🏁 Gaining experience via **Hackathons**
 
 ---
 
-## 🤝 Connect with Me
+## 📈 GitHub Stats
 
-Let’s grow, build, and collaborate!  
-Check out my projects and feel free to reach out for collaboration or coding convos. 🚀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=your_github_username&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
+
+> Let’s grow together – one commit at a time 🚀
+
+---
+
+<!-- README crafted with ❤️ by Anshuman Garg -->
