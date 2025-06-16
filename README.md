@@ -1,42 +1,37 @@
-# Hi there! 👋
+## Hi, I'm Anshuman Garg 🚀
 
-Welcome to my GitHub! I'm Anshuman Garg, a Computer Science student and an enthusiastic learner on the path to becoming a **Full Stack Software Developer**. I love exploring the depths of **C++**, solving **Data Structures & Algorithms** problems, and experimenting with **Web Development** tools.
-
----
-
-## 🧑‍💻 About Me
-
-- 🌟 Core language: **C++** (currently focused on DSA using it)
-- 💡 Practicing **Data Structures & Algorithms** consistently on **LeetCode**
-- 🌐 Learning & building with **HTML, CSS, and JavaScript**
-- ⚙️ Exploring backend development and full stack tools
-- 🚀 Contributor in **GSSoC 2024**
-- 👨‍👩‍👧‍👦 Participated in various **Hackathons** and open-source initiatives
-- 🎯 Passionate about creating efficient, scalable software solutions
+💻 Frontend Developer | 📚 B.Tech CSE @ Chitkara University  
+🌱 Currently learning: React, Python & DSA  
+🎯 Passionate about building user-friendly websites and contributing to open source!
 
 ---
 
-## 🛠 Technologies & Skills
-
-- **Languages**: C, C++, Python  
-- **DSA Practice**: LeetCode, competitive problems etc.. 
-- **Frontend**: HTML, CSS, JavaScript (basic to intermediate)  
-- **Currently Exploring**: Backend, databases, and frameworks  
-- **Tools**: Git, GitHub, VS Code, Netlify  
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_instagram) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 ---
 
-## 🎯 Goals
-
-- 🔍 Build a strong grip on **Full Stack Development**
-- 🚀 Continue mastering **DSA in C++**
-- 🌱 Learn backend frameworks like Node.js, Express, MongoDB, etc.
-- 💬 Collaborate on **open-source projects**
-- 🧠 Keep participating in **hackathons** to grow through experience
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
 
-Let’s grow, build, and collaborate!  
-Check out my projects and feel free to reach out for collaboration or coding convos. 🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&theme=radical&layout=compact)
+![Anshuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&theme=radical&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=your_github_username&theme=radical)
+
+---
+
+<!-- Proudly created by ChatGPT + Anshuman -->
