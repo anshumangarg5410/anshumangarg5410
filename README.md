@@ -55,6 +55,6 @@ I love building user-friendly UIs with **React.js**, solving **DSA problems in C
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=dark&hide_border=true)<br/> 
 
 ---
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 > Let’s grow together – one commit at a time 🚀
 
