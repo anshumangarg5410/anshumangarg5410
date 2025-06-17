@@ -58,7 +58,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=radical&layout=compact&hide_border=false&border_radius=10"/>
 
-<img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
+<img height="180px" width="360px" src="[https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10](https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10)"/>
 
 </div>
 
