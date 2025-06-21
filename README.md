@@ -95,11 +95,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshumangarg5410)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anshumangarg5410/)
 
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&layout=compact&hide_title=true&hide_border=true&card_width=1000&theme=transparent&langs_count=8" />
-
-</div>
 
 ## 🤝 Connect With Me
 
