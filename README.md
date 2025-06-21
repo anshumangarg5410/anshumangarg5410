@@ -5,11 +5,6 @@ I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Sta
 I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshumangarg5410&label=Profile+Views&color=0e75b6&style=for-the-badge)
-
-
-
-
 ## 👨‍💻 About Me
 - 💻 Core language: **C++** (focused on mastering DSA)
 - 📚 Consistent with **LeetCode** for problem-solving
@@ -44,17 +39,32 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-## 🎯 Current Goals
+## 🎯 Current Goals and Learnings
 
 - 🧠 Master **DSA in C++**
-- 💻 Learn **Node.js**, **Express.js**, and **MongoDB**
+- 💻 Learn**Node.js**, **Express.js**, and **MongoDB**
 - 📈 Build real-world full stack projects
 - 🌟 Contribute actively to **open-source**
 - ⚔️ Participate in more **Hackathons**
 
+<div align="center">
+
+### 🌱 Currently Learning
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-UI%20Animations-black?style=for-the-badge&logo=framer&logoColor=white)
+![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React JS](https://img.shields.io/badge/React%20JS-Advanced%20Concepts-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-Backend%20Integration-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 <div align="center">
 
@@ -63,6 +73,17 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=radical&layout=compact&hide_border=false&border_radius=10"/>
 
 <img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
+
+<div align="center">
+
+### 🔗 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshumangarg5410/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anshumangarg5410)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshumangarg5410)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anshumangarg5410/)
+
+</div>
 
 </div>
 
