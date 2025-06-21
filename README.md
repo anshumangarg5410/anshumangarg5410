@@ -10,11 +10,11 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="70%">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 - 💻 Core language: **C++** (focused on mastering DSA)  
 - 📚 Consistent with **LeetCode** for problem-solving  
@@ -25,10 +25,10 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🎯 Passionate about writing clean and scalable code
 
 </td>
-    <td>
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="animated" />
-    </td>
-  </tr>
+<td align="center" width="30%">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="animated dev gif"/>
+</td>
+</tr>
 </table>
 
 ## 🌐 Connect With Me
