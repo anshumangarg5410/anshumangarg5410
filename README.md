@@ -85,6 +85,18 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 ---
 
+### 💭 My Philosophy
+
+*"Learning never stops, and every challenge is an opportunity to grow."*
+
+*"Code with purpose, debug with patience, and always strive for excellence."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sajal072004&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/sajal072004?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/sajal072004?label=Total%20Stars&style=for-the-badge&color=yellow)
+
 > Let’s grow together – one commit at a time 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
