@@ -69,11 +69,9 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 <div align="center">
   
-  <!-- Snake Contribution Animation -->
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br /><br />
 
-  <!-- GitHub Stats + Streak side-by-side -->
   <table>
     <tr>
       <td>
