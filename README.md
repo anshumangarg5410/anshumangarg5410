@@ -10,26 +10,15 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 
 
-<table width="100%">
-  <tr>
-    <td width="70%">
-
-<h2>👨‍💻 About Me</h2>
-
-- 💻 Core language: **C++** (focused on mastering DSA)  
-- 📚 Consistent with **LeetCode** for problem-solving  
-- ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**  
-- 🌐 Exploring backend development and full stack tools  
-- 🚀 Contributor at **GSSoC 2024**  
-- 🧑‍🏫 Active participant in **Hackathons** & open source  
+## 👨‍💻 About Me
+- 💻 Core language: **C++** (focused on mastering DSA)
+- 📚 Consistent with **LeetCode** for problem-solving
+- ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**
+- 🌐 Exploring backend development and full stack tools
+- 🚀 Contributor at **GSSoC 2024**
+- 🧑‍🏫 Active participant in **Hackathons** & open source
 - 🎯 Passionate about writing clean and scalable code
 
-</td>
-<td align="center" width="30%">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="animated dev gif"/>
-</td>
-</tr>
-</table>
 
 ## 🌐 Connect With Me
 
