@@ -1,69 +1,76 @@
- Hey there! I’m Anshuman Garg
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Anshuman Garg
 
-<p align="center">
+<div align="center">
 
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+Student+|+Second+Year;C%2B%2B+%7C+DSA+|+Problem+Solver+%7C+Web+Dev&+%7C+100++On+;Full+Stack+Learner+🚀) -->
 
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Second+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+100%2B+Problems+Solved+%F0%9F%94%A5)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+</div>
 
-<p align="center">
-I'm <strong>Anshuman Garg</strong>, a passionate Computer Science student & future <strong>Full Stack Software Developer</strong>.<br>
-I enjoy building user-friendly UIs with <strong>React.js</strong>, solving <strong>DSA problems in C++</strong>, and experimenting with cutting-edge <strong>web technologies</strong>.
-</p>
-
-
-<h2 align="center">👨‍💻 About Me</h2>
+I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
+I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
 
-<ul align="center">
-<li>💻 Core language: <strong>C++</strong> (focused on mastering DSA)</li>
-<li>📚 Consistent with <strong>LeetCode</strong> for problem-solving</li>
-<li>⚛️ Crafting modern UIs using <strong>React.js</strong> and <strong>Tailwind CSS</strong></li>
-<li>🌐 Exploring backend development and full stack tools</li>
-<li>🚀 Contributor at <strong>GSSoC 2024</strong></li>
-<li>🧑‍🏫 Active participant in <strong>Hackathons</strong> & open source</li>
-<li>🎯 Passionate about writing clean and scalable code</li>
-</ul>
+## 👨‍💻 About Me
+- 💻 Core language: **C++** (focused on mastering DSA)
+- 📚 Consistent with **LeetCode** for problem-solving
+- ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**
+- 🌐 Exploring backend development and full stack tools
+- 🚀 Contributor at **GSSoC 2024**
+- 🧑‍🏫 Active participant in **Hackathons** & open source
+- 🎯 Passionate about writing clean and scalable code
 
 
-<h2 align="center">🛠 Tech Stack</h2>
 
 
-<p align="center">
+## 🛠 Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 
-</p>
+## 🎯 Current Goals and Learnings
 
+- 🧠 Master **DSA in C++**
+- 💻 Learn**Node.js**, **Express.js**, and **MongoDB**
+- 📈 Build real-world full stack projects
+- 🌟 Contribute actively to **open-source**
+- ⚔️ Participate in more **Hackathons**
 
-<h2 align="center">🎯 Current Goals and Learnings</h2>
+<div align="center">
 
+### 🌱 Currently Learning
 
-<ul align="center">
-<li>🧠 Master <strong>DSA in C++</strong></li>
-<li>💻 Learn <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong></li>
-<li>📈 Build real-world full stack projects</li>
-<li>🌟 Contribute actively to <strong>open-source</strong></li>
-<li>⚔️ Participate in more <strong>Hackathons</strong></li>
-</ul>
-
-
-<h3 align="center">🌱 Currently Learning</h3>
-
-
-<p align="center">
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-UI%20Animations-black?style=for-the-badge&logo=framer&logoColor=white)
 ![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React JS](https://img.shields.io/badge/React%20JS-Advanced%20Concepts-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-Backend%20Integration-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-</p>
 
+</div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br /><br />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ 
   <table>
     <tr>
       <td>
@@ -74,65 +81,70 @@ I enjoy building user-friendly UIs with <strong>React.js</strong>, solving <stro
       </td>
     </tr>
   </table>
-</p>
+  
+</div>
 
+<div align="center">
 
-<h2 align="center">🔗 Coding Profiles</h2>
+### 🔗 Coding Profiles
 
-
-<p align="center">
 [![Codolio](https://img.shields.io/badge/Codolio-121212?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/anshumangarg5410)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshumangarg5410/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anshumangarg5410)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshumangarg5410)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anshumangarg5410/)
-</p>
 
 
-<h2 align="center">🤝 Connect With Me</h2>
 
+## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60%">
-<br><br>
-<strong>📬 Let's Build Something Amazing Together!</strong>
-<br><br>
+
+### 📬 Let's Build Something Amazing Together!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumangarg5410)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumangarg5410)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
-</p>
 
+<!-- Second GIT Stats, will update when contributions will increase ! 
+## 📊 GitHub Stats
 
+<div align="center">
 
-⸻
+<img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api?username=anshumangarg5410&custom_title=Something+To+Know+About...&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
+<img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&theme=radical&layout=compact&hide_border=false&border_radius=10"/>
 
+<img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumangarg5410&theme=react-dark" width="780px"/>
 
-<h3 align="center">💭 My Philosophy</h3>
+</div>
+ -->
 
+---
+<div align="center">
+ 
+### 💭 My Philosophy
 
-<p align="center">
-<em>"Learning never stops, and every challenge is an opportunity to grow."</em><br>
-<em>"Code with purpose, debug with patience, and always strive for excellence."</em>
-</p>
+*"Learning never stops, and every challenge is an opportunity to grow."*
 
+*"Code with purpose, debug with patience, and always strive for excellence."*
 
-<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
 
-
-<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumangarg5410&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/anshumangarg5410?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/anshumangarg5410?label=Total%20Stars&style=for-the-badge&color=yellow)
-</p>
+
+<div align="center">
+ 
+Let’s grow together – one commit at a time 🚀
+
+</div>
 
 
-<p align="center">
-<strong>Let’s grow together – one commit at a time 🚀</strong>
-</p>
-
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
-</p>
+
+
