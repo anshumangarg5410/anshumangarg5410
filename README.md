@@ -20,7 +20,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🎯 Passionate about writing clean and scalable code
 
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumangarg5410) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
@@ -66,7 +66,18 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 </div>
 
+## 🤝 Connect With Me
 
+<div align="center">
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60%">
+
+### 📬 Let's Build Something Amazing Together!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sajalnamdeo.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajaln)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajal072004)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalnamdeo1@gmail.com)
 
 <!-- Second GIT Stats, will update when contributions will increase ! 
 ## 📊 GitHub Stats
