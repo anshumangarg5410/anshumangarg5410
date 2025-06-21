@@ -6,7 +6,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 
 ## 👨‍💻 About Me
-
+![Profile Views](https://komarev.com/ghpvc/?username=anshumangarg5410&label=Profile+Views&color=blue&style=for-the-badge)
 - 💻 Core language: **C++** (focused on mastering DSA)
 - 📚 Consistent with **LeetCode** for problem-solving
 - ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**
