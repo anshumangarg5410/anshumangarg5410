@@ -97,6 +97,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumangarg5410&layout=compact&hide_title=true&hide_border=true&card_width=1000&theme=transparent&langs_count=8" />
+
 </div>
 
 ## 🤝 Connect With Me
