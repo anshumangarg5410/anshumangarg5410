@@ -104,9 +104,9 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sajal072004&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/sajal072004?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/sajal072004?label=Total%20Stars&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=anshumangarg5410&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/anshumangarg5410?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/anshumangarg5410?label=Total%20Stars&style=for-the-badge&color=yellow)
 
 > Let’s grow together – one commit at a time 🚀
 
