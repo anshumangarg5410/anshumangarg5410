@@ -84,7 +84,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
  -->
 
 ---
-
+<div align="center">
+ 
 ### 💭 My Philosophy
 
 *"Learning never stops, and every challenge is an opportunity to grow."*
