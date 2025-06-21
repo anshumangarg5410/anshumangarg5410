@@ -3,6 +3,7 @@
 Welcome to my GitHub!  
 I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
 I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumangarg5410&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 ## 👨‍💻 About Me
