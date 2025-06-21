@@ -1,3 +1,5 @@
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Anshuman Garg
 
 <div align="center">
@@ -12,8 +14,6 @@
 I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
 I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumangarg5410&theme=react-dark" />
 
 ## 👨‍💻 About Me
 - 💻 Core language: **C++** (focused on mastering DSA)
@@ -70,10 +70,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br /><br />
-
+ 
   <table>
     <tr>
       <td>
