@@ -1,6 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=280&lines=Hey!+I'm+Anshuman+Garg;C%2B%2B+%7C+DSA+%7C+Web+Dev;Full+Stack+Learner+🚀)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Anshuman Garg
 
-Welcome to my GitHub!  
+<div align="center">
+
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+Student+|+Second+Year;C%2B%2B+%7C+DSA+|+Problem+Solver+%7C+Web+Dev&+%7C+100++On+;Full+Stack+Learner+🚀) -->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Second+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+100%2B+Problems+Solved+%F0%9F%94%A5)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
 I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
 I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
@@ -15,15 +23,11 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🎯 Passionate about writing clean and scalable code
 
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumangarg5410) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangarg5410@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anshumangarg5410)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshumangarg5410)
 
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,6 +41,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
 
 
 ## 🎯 Current Goals and Learnings
