@@ -84,6 +84,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 ### 🔗 Coding Profiles
 
+[![Codolio](https://img.shields.io/badge/Codolio-121212?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/anshumangarg5410)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshumangarg5410/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anshumangarg5410)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshumangarg5410)
