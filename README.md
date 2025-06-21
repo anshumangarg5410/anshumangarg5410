@@ -15,6 +15,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 - 🚀 Contributor at **GSSoC 2024**
 - 🧑‍🏫 Active participant in **Hackathons** & open source
 - 🎯 Passionate about writing clean and scalable code
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 
 ## 🌐 Connect With Me
