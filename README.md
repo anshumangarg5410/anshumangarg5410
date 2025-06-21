@@ -81,4 +81,5 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ---
 
 > Let’s grow together – one commit at a time 🚀
-https://camo.githubusercontent.com/51c0202e50bafe49461a0f5327a0a32e1f19a4d7223c24c3889092598669d95b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
