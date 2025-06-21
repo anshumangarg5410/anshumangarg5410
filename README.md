@@ -135,6 +135,11 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![GitHub Followers](https://img.shields.io/github/followers/anshumangarg5410?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/anshumangarg5410?label=Total%20Stars&style=for-the-badge&color=yellow)
 
-> Let’s grow together – one commit at a time 🚀
+<div align="center">
+ 
+Let’s grow together – one commit at a time 🚀
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
