@@ -85,6 +85,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
   
 </div>
 
+<div align="center">
+
 ### 🔗 Coding Profiles
 
 [![Codolio](https://img.shields.io/badge/Codolio-121212?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/anshumangarg5410)
