@@ -1,5 +1,3 @@
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Anshuman Garg
 
 <div align="center">
@@ -70,6 +68,8 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
  
   <table>
     <tr>
