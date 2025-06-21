@@ -13,6 +13,8 @@ I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Sta
 I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
 
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumangarg5410&theme=react-dark" />
+
 ## 👨‍💻 About Me
 - 💻 Core language: **C++** (focused on mastering DSA)
 - 📚 Consistent with **LeetCode** for problem-solving
