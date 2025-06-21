@@ -68,19 +68,24 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <br /><br />
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+  <!-- GitHub Stats + Streak side-by-side -->
+  <table>
+    <tr>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=anshumangarg5410&custom_title=Something+To+Know+About...&show_icons=true&theme=radical&border_radius=10&hide_border=false" />
+      </td>
+      <td>
+        <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10" />
+      </td>
+    </tr>
+  </table>
+  
 </div>
-
-<div align="center">
-
-<img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api?username=anshumangarg5410&custom_title=Something+To+Know+About...&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
-
-
-<img height="180px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumangarg5410&theme=radical&hide_border=false&border_radius=10"/>
-
-<div align="center">
 
 ### 🔗 Coding Profiles
 
