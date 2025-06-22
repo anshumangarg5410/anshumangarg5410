@@ -37,6 +37,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-UI%20Animations-black?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,7 +59,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 ### 🌱 Currently Learning
 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-UI%20Animations-black?style=for-the-badge&logo=framer&logoColor=white)
 ![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React JS](https://img.shields.io/badge/React%20JS-Advanced%20Concepts-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-Backend%20Integration-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
