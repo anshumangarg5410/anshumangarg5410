@@ -39,8 +39,6 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ![React Router](https://img.shields.io/badge/React%20Router-Dynamic%20Routing-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Hooks](https://img.shields.io/badge/React%20Hooks-Advanced%20Usage-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-Reusable%20Logic-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-UI%20Animations-black?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
