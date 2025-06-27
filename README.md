@@ -62,10 +62,7 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 
 ### 🌱 Currently Learning
 
-![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Backend Development](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)  
-![React JS](https://img.shields.io/badge/React%20JS-Done%20Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Currently Building](https://img.shields.io/badge/Building-Dev%20Projects-9cf?style=for-the-badge)
+![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Backend Development](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)  ![Currently Building](https://img.shields.io/badge/Building-Dev%20Projects-9cf?style=for-the-badge)
 
 </div>
 
