@@ -4,7 +4,8 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+Student+|+Second+Year;C%2B%2B+%7C+DSA+|+Problem+Solver+%7C+Web+Dev&+%7C+100++On+;Full+Stack+Learner+🚀) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Second+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+100%2B+Problems+Solved+%F0%9F%94%A5)
+![Typing SVG
+](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Second+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+100%2B+Problems+Solved+%F0%9F%94%A5)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -58,23 +59,23 @@ I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in 
 ## 🎯 Current Goals and Learnings
 
 - 🧠 Master **DSA in C++**
-- 💻 Learn**Node.js**, **Express.js**, and **MongoDB**
+<!--  - 💻 Learn**Node.js**, **Express.js**, and **MongoDB** -->
 - 📈 Build real-world full stack projects
 - 🌟 Contribute actively to **open-source**
 - ⚔️ Participate in more **Hackathons**
 
 <div align="center">
-
+<!-- 
 ### 🌱 Currently Learning
 
-
+<!-- 
 ![DSA in C++](https://img.shields.io/badge/DSA%20in%20C++-Problem%20Solving-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced%20Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-API%20Architecture-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-ODM%20Library-A03333?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Currently Building](https://img.shields.io/badge/Building-Dev%20Projects-9cf?style=for-the-badge)
-
 </div>
+-->
 
 ## 📊 GitHub Stats
 
