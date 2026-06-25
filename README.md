@@ -5,13 +5,13 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+Student+|+Second+Year;C%2B%2B+%7C+DSA+|+Problem+Solver+%7C+Web+Dev&+%7C+100++On+;Full+Stack+Learner+🚀) -->
 
 ![Typing SVG
-](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Second+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+200%2B+Problems+Solved+%F0%9F%94%A5)
+](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Third+Year+|+CS+Student+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;LeetCode+%7C+250%2B+Problems+Solved+%F0%9F%94%A5)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 I'm **Anshuman Garg**, a passionate Computer Science student & future **Full Stack Software Developer**.  
-I enjoy building user-friendly UIs with **React.js**, solving **DSA problems in C++**, and experimenting with cutting-edge **web technologies**
+I enjoy building user-friendly Websites with **MERN**, solving **DSA problems in JAVA**, and experimenting with cutting-edge **web technologies**
 
 
 ## 👨‍💻 About Me
