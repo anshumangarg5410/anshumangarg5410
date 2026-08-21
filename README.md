@@ -20,7 +20,7 @@ I enjoy building user-friendly Websites with **MERN**, solving **DSA problems in
 
 
 ## 👨‍💻 About Me
-- 💻 Core language: **C++** (focused on mastering DSA)
+- 💻 Core language: **JAVA** (focused on mastering DSA)
 - 📚 Consistent with **LeetCode** for problem-solving
 - ⚛️ Crafting modern UIs using **React.js** and **Tailwind CSS**
 - 🌐 Exploring backend development and full stack tools
